@@ -5,7 +5,7 @@ It is designed to practice conditional statements, user input handling, and basi
 
 ---
 
-## 📌 Features
+## 📌 Features of this Mini  Project
 
 - Accepts marks from the user  
 - Evaluates performance based on score range  
